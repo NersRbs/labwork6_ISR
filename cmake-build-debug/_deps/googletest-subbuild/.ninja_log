@@ -1,0 +1,21 @@
+# ninja log v5
+1	100	6867687780372844	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	b31e3ecc187aefb3
+1	100	6867687780372844	C:/Users/wmars/labwork2-NersRbs/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	b31e3ecc187aefb3
+101	6470	6867687844072760	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	ba8f1a6bb232688e
+101	6470	6867687844072760	C:/Users/wmars/labwork2-NersRbs/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	ba8f1a6bb232688e
+6470	6692	0	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	433d266a8f876547
+6470	6692	0	C:/Users/wmars/labwork2-NersRbs/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	433d266a8f876547
+6692	6785	6867687847207014	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	908335498ff2bcf9
+6692	6785	6867687847207014	C:/Users/wmars/labwork2-NersRbs/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	908335498ff2bcf9
+6785	6878	6867687848145825	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	bf9733a8b8fce507
+6785	6878	6867687848145825	C:/Users/wmars/labwork2-NersRbs/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	bf9733a8b8fce507
+6878	6974	6867687849100477	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	7d831e353d2d5694
+6878	6974	6867687849100477	C:/Users/wmars/labwork2-NersRbs/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	7d831e353d2d5694
+6974	7064	6867687850016910	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	e48ce20d1b37dcfe
+6974	7064	6867687850016910	C:/Users/wmars/labwork2-NersRbs/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	e48ce20d1b37dcfe
+7064	7166	6867687851034839	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	29568541eca25915
+7064	7166	6867687851034839	C:/Users/wmars/labwork2-NersRbs/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	29568541eca25915
+7167	7290	6867687852274497	CMakeFiles/googletest-populate-complete	ee3bcc5dee9d73ae
+7167	7290	6867687852274497	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	ee3bcc5dee9d73ae
+7167	7290	6867687852274497	C:/Users/wmars/labwork2-NersRbs/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	ee3bcc5dee9d73ae
+7167	7290	6867687852274497	C:/Users/wmars/labwork2-NersRbs/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	ee3bcc5dee9d73ae
